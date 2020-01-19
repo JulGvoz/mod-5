@@ -1,0 +1,23 @@
+<head>
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <canvas id="my_canvas"></canvas>
+    <br>
+    <h3 id="total">( 0 / 0 ): 0</h3>
+    <input type="text" id="answer"></input>
+    <button id="submit">Pateikti</button>
+    <h3 id="response">Įveskite atsakymą ir spauskite Pateikti</h3>
+    <label for="show_all">Rodyti visus</label>
+    <input type="checkbox" id="show_all"></input>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.6/fuse.min.js"></script>
+<script src="data.js"></script>
+<script src="util.js"></script>
+<script src="main_script.js"></script>
+<script>
+    setInterval(function() {
+        loop();
+    }, 1000/30);
+</script>
