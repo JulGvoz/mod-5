@@ -1,0 +1,196 @@
+ROAD
+VEHICLES
+sports car
+cab
+taxi
+lorry - sunkvežimis
+coach - turistinis autobusas
+bus
+van - autofurgonas
+bicycle
+bike
+motorcycle
+
+PEOPLE
+driver
+chauffeur
+mechanic
+bus conductor
+
+FACILITIES
+petrol station - degalinė
+garage
+service station
+terminal - didelė stotis
+
+
+RAIL
+VEHICLES
+express train
+fast train
+local train
+slow train
+through train - tiesioginis traukinys
+underground - metro
+the tube - metro
+
+PEOPLE
+engine-driver - mašinistas
+ticket collector - kontrolierius
+guard - palydovas
+porter - nešikas
+
+FACILITIES
+railway station
+terminal
+platform
+ticket-office
+compartment - kupė
+carriage - vagonas
+coach - vagonas
+buffet car
+dining car
+restaurant car
+
+
+SEA
+VEHICLES
+yacht
+rowing boat
+ship
+liner - laineris
+ferry - keltas
+trawler - traleris
+
+PEOPLE
+steward
+stewardess
+
+FACILITIES
+cabin - kajutė
+deck - denis
+quay - prieplauka
+docks
+light-house - švyturys
+harbour - sėklus uostas
+port - gilus uostas
+
+
+AIR
+VEHICLES
+aeroplane
+plane
+jet - reaktyvinis lėktuvas
+jumbo jet - didelis keleivinis reaktyvinis lėktuvas
+helicopter - sraigtasparnis
+
+PEOPLE
+pilot
+stewardess
+flight attendant
+ground staff - oro uosto darbuotojai
+crew - įgula
+crew - ekipažas
+
+FACILITIES
+airport - oro uostas
+terminal - terminalas
+information office
+check-in - bilietų registracija
+departure lounge - išvykstančiųjų salė
+gate - išėjimas prie lėktuvo
+cabin - lėktuvo salonas
+security check - patikrinimas
+
+
+GENERIC
+SOME MORE WORDS CONNECTED WITH TRAVEL
+passenger - keleivis
+ticket
+single ticket - bilietas į vieną pusę
+return ticket - bilietas ten ir atgal
+open return ticket - bilietas su iš anksto nenustatyta grįžimo data
+standby ticket - rezervinis bilietas
+book tickets - užsakyti bilietus
+fare - mokestis už važiavimą
+He hadn't enough money for his bus fare. - Jis neturėjo pakankamai pinigų už važiavimą autobusu.
+destination - kelionės tikslas
+destination - paskirties vieta
+We should reach out destination by about midday. - Mes turėtume pasiekti savo kelionės tikslą iki vidurdienio.
+luggage - bagažas
+baggage - bagažas
+excess baggage - bagažo viršsvoris
+You have to pay excess baggage. - Jums reikia mokėti už bagažo viršsvorį.
+trolley - vežimėlis bagažui vežti
+I need a luggage trolley. - Man reikia vežimėlio bagažui vežti.
+board - sėsti į lėktuvą
+board - sėsti į laivą
+board - sėsti į traukinį
+a boarding pass - leidimas sėsti į lėktuvą ar laivą
+a boarding card - leidimas sėsti į lėktuvą ar laivą
+
+AT THE CUSTOMS
+Customs - muitinė
+Customs officer - muitininkas
+pass through Customs
+go through Customs
+declare - išvardyti apmuitinamus dalykus
+declare - pateikti apmuitinamus dalykus
+Customs Declaration
+fill in a form
+fill in a declaration
+list - sąrašas
+Will you look through the list of goods you have to declare? - Ar jūs peržiūrėsite apmuitinamų dalykų sąrašą?
+duty - muitas
+pay duty on sth - mokėti muito mokestį
+You must pay duty on spirits if you want to bring them to the country. - Jums reikia mokėti muito mokestį už spiritus jeigu norite juos įgabenti į šalį.
+dutiable - apmuitinamas
+duty-free - neapmuitinamas
+duty-free - be muito
+articles
+items
+belongings
+things
+tax - mokestis
+security - apsauga
+go through security
+go through passport control
+entry visa - įvažiavimo viza
+exit visa - išvažiavimo viza
+frontier - siena
+border - siena
+immigration
+
+AIR
+flight - skrydis
+flight - reisas
+Your flight is from terminal A. - Jūsų skrydis skrenda iš terminalo A.
+Flight BA 677 has just arrived. - Atvyko skrydis BA 677.
+The flight to London is from gate 10. - Skrydis į Londoną skrenda iš 10 vartų.
+scheduled flight - reisas pagal grafiką
+Many airlines have cancelled scheduled flights because of bad weather. - Daug oro linijų atšaukė reisus pagal grafiką dėl blogo oro.
+charter flight - užsakytas reisas
+Many businessmes go to China on charter flights. - Daug verslininkų vyksta į Kiniją užsakytais reisais.
+cancel - atšaukti
+Has our flight been cancelled? - Ar mūsų skrydis buvo atšauktas?
+delay - atidėti
+The plane was delayed by snowstorm. - Lėktuvas buvo užlaikytas sniego pūgos.
+call a flight - paskelbti lėktuvo išskridimą
+be running late
+There's been been an accident and all the trains are running late. - Įvyko nelaimingas atsitikimas ir visi traukiniai vėluoja.
+take off - pakilti
+land - nusileisti
+
+TRAINS
+Trains always run on time here. Traukiniai visada čia važiuoja laiku.
+You have to change trains at Bristol. Bristolyje jums reikia persėsti.
+Your train leaves from Platform 10. - Jūsų autobusas išvažiuoja iš 10 platformos.
+The train 10.05 from London is due to arrive at platform one. Traukinys 10.05 turi atvykti pirmoje platformoje.
+We got on the train and found our seats. - Mes įlipome į traukinį ir radome savo vietas.
+We missed the 8 o'clock train. - Mes pavėlavome į 8 valandos traukinį.
+
+SEA
+The liner sets sail at noon - Laineris išplaukia vidurdienį.
+My parents took me on a voyage round Europe. - Mano tėvai pakvietė mane į kelionę laivu aplink Europą.
+I felt seasick. - Aš susirgau jūros liga.
+We called at various ports. - Mes užsukome į įvairius uostus.
